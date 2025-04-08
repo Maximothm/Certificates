@@ -6,6 +6,7 @@ Repositório com meus certificados de cursos, eventos e formações.
 ## 📂 Cursos  
 
 [Certificado_Android.pdf](https://github.com/user-attachments/files/19641682/Certificado_Android.pdf)
+[mobile_react.pdf](https://github.com/user-attachments/files/19641839/mobile_react.pdf)
 
 
 ## 🚀 Como Visualizar  
