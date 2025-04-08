@@ -9,7 +9,8 @@ Repositório com meus certificados de cursos, eventos e formações.
 
 -[mobile_react.pdf](https://github.com/user-attachments/files/19641839/mobile_react.pdf)
 
--[react.pdf](https://github.com/user-attachments/files/19641881/react.pdf)
+-[flutter.pdf](https://github.com/user-attachments/files/19641887/flutter.pdf)
+
 
 
 
