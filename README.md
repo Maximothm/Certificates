@@ -3,10 +3,10 @@
 
 Repositório com meus certificados de cursos, eventos e formações.  
 
-## 📂 Estrutura  
-- **/cursos**: Certificados de cursos online e presenciais.  
-- **/eventos**: Participação em palestras, workshops e hackathons.  
-- **/graduacao**: Documentos acadêmicos.  
+## 📂 Cursos  
+
+[Certificado_Android.pdf](https://github.com/user-attachments/files/19641682/Certificado_Android.pdf)
+
 
 ## 🚀 Como Visualizar  
 - Clique nos arquivos `.pdf` para visualizar ou baixar.  
