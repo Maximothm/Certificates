@@ -14,7 +14,8 @@ Repositório com meus certificados de cursos, eventos e formações.
 ![react_](https://github.com/user-attachments/assets/c22acbf2-2b02-4be6-bb88-364fdabdb6f5)
 
 -Fluter
- ![flutter_6](https://github.com/user-attachments/assets/5e9e78b9-7887-40cc-9483-80757060a3ba)
+
+![Flutter_6](https://github.com/user-attachments/assets/a51c9217-f69c-4507-95c2-64d262c852c1)
 
 
 
